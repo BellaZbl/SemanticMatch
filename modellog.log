@@ -1,0 +1,11 @@
+Fri, 23 Nov 2018 15:21:30 train.py[line:129] INFO build label vocab
+Fri, 23 Nov 2018 15:21:30 train.py[line:131] INFO {'1': 0, '0': 1}
+Fri, 23 Nov 2018 15:21:30 train.py[line:133] INFO label vocab size:2
+Fri, 23 Nov 2018 15:21:30 train.py[line:136] INFO Loading Vocab: F:\project\simnetwork_tensorflow/data/vocab.big
+Fri, 23 Nov 2018 15:21:30 train.py[line:143] INFO Vocab Size:585
+Fri, 23 Nov 2018 15:21:30 tf_logging.py[line:125] WARNING From C:\ProgramData\Anaconda3\lib\site-packages\tensorflow\python\training\input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+Fri, 23 Nov 2018 15:21:30 tf_logging.py[line:125] WARNING From C:\ProgramData\Anaconda3\lib\site-packages\tensorflow\python\training\input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.

@@ -1,0 +1,2 @@
+2018-11-21 14:29:49,063 - utils.py[line:39] - INFO: loading test data finish
+2018-11-21 14:31:03,209 - utils.py[line:41] - INFO: loading candidate data finish
